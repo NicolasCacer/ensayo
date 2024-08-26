@@ -1,7 +1,6 @@
 # Local Repo
 Este es mi primero repositorio offline y ahora voy a hacer un ensayo del parcial de desarrollo web
 
-# Ejercicio
 ## HTML, CSS y JavaScript
 Para este ejercicio tendrá inicialmente 90 minutos.
 
@@ -33,13 +32,13 @@ Family: Roboto
 Weights: 400, 700
 
 # First Page
-![alt text](<Imagen de WhatsApp 2024-08-24 a las 18.42.40_c1fa70b6.jpg>)
+![alt text](<Images/Imagen de WhatsApp 2024-08-24 a las 18.42.40_c1fa70b6.jpg>)
 
 Debe recibir un correo válido, es decir, debe contener un `@` y un `.com`.
 
-![alt text](<Imagen de WhatsApp 2024-08-24 a las 18.44.01_3a0659ca.jpg>)
-![alt text](<Imagen de WhatsApp 2024-08-24 a las 18.44.32_50373a07.jpg>)
+![alt text](<Images/Imagen de WhatsApp 2024-08-24 a las 18.44.01_3a0659ca.jpg>)
+![alt text](<Images/Imagen de WhatsApp 2024-08-24 a las 18.44.32_50373a07.jpg>)
 # Second Page
-![alt text](<Imagen de WhatsApp 2024-08-24 a las 18.42.53_a67d9cbc.jpg>)
-![alt text](<Imagen de WhatsApp 2024-08-24 a las 18.45.37_2d6e8bfb.jpg>)
+![alt text](<Images/Imagen de WhatsApp 2024-08-24 a las 18.42.53_a67d9cbc.jpg>)
+![alt text](<Images/Imagen de WhatsApp 2024-08-24 a las 18.45.37_2d6e8bfb.jpg>)
 

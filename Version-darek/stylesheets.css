@@ -1,0 +1,60 @@
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:hsl(234, 29%, 20%)
+     
+}
+
+main{
+    height: 480px;
+    width: 320px;
+    background-color: white;
+}
+#nuevoBloque{
+    height: 480px;
+    width: 320px;
+    background-color: white;
+}
+
+.botoncito{
+    background-color: hsl(234, 29%, 20%);
+}
+@media (min-width:1024px){
+    #container-principal{
+        flex-direction: row-reverse !important;
+    }
+    main{
+        height: 60%;
+        width: 60%;
+    }
+    #nuevoBloque{
+        height: 60%;
+        width: 60%;
+    }
+    body{
+        height: 100%;
+        width: 100%;
+        background-color:  hsl(235, 18%, 26%) !important;
+    }
+    #imagendura{
+        height: 100%;
+        width: 40%;
+    }
+    #contenedortexto{
+        width: 60%;
+    }
+    .error{
+        color:red; 
+    }
+    .errorbackground{
+        color: red;
+        background-color: #ffcccc;
+    }
+    .exito{
+        color:green;
+    }
+    .exitobackground{
+        color:green;
+        background-color: #ccffcc;
+    }
+
+}
