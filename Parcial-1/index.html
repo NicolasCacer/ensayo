@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ensayo Parcial 1</title>
+    <title>Subscribtion</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="flex justify-center items-center" style="background-color: hsl(234, 29%, 20%);">
@@ -14,12 +14,12 @@
             <p class="text-[12px]">▶ Product discovery and building what matters</p>
             <p class="text-[12px]">▶ Measuring to ensure updates are a success</p>
             <p class="text-[12px] pb-2">▶ And much more!</p>
-            <p class="text-[10px] pb-1">Email address:</p>
-            <input type="text" id="email" placeholder="Enter your e-mail" class="rounded border-[1px] text-xs p-1 mb-2 w-[80%] pl-2">
-            <button class="btn p-2 bg-blue-900 rounded-lg text-[12px] text-white hover:bg-blue-950">Subscribe to monthly newsletter</button>
+            <p id ="valid-email" class="text-[10px] pb-1">Email address:</p>
+            <input type="text" id="email" placeholder="Enter your e-mail" class="rounded border-[1px] text-xs p-1 mb-2 w-[80%] pl-2 focus:outline-none focus:ring-1 focus:ring-blue-500">
+            <button id ="subscribe" class="btn p-2 bg-blue-900 rounded-lg text-[12px] text-white hover:bg-blue-950">Subscribe to monthly newsletter</button>
         </div>
         <img id = "photo" class="rounded-lg" src="../Images/image.png" alt="No image">
-
+        <script src="script.js"></script>
     </div>
 </body>
 </html>
